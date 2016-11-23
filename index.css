@@ -1,0 +1,18 @@
+body {
+	background-color: #AABB00;
+	color: white;
+}
+p {
+	border : 2px white solid;
+	background-color: black;
+	text-align: center;
+}
+img {
+	height: 300px;
+	width: 300px;
+	margin-left: 500px;
+}
+h1{
+	text-align: center;
+	color: #CA00FF;
+}
